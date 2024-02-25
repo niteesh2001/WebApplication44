@@ -78,6 +78,6 @@ C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\bin
 C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebApplication44.csproj.AssemblyReference.cache
 C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebApplication44.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebApplication44.csproj.CopyComplete
 C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebApplication44.dll
 C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebApplication44.pdb
+C:\Users\LENOVO\OneDrive\Documents\ASP.NET\WebApplication44\WebApplication44\obj\Debug\WebAppli.AD2B8065.Up2Date
